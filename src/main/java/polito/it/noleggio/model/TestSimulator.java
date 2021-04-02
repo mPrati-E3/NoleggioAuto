@@ -2,7 +2,6 @@ package polito.it.noleggio.model;
 
 import java.time.Duration;
 import java.time.temporal.ChronoUnit;
-import java.time.temporal.TemporalUnit;
 
 public class TestSimulator {
 
